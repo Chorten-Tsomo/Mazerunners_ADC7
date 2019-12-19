@@ -1,0 +1,21 @@
+Git Code
+Git is a free and open source distributed code management and version control system that is 
+distributed under the GNU General Public License version 2. In addition to software version control,
+ Git is used for other applications including configuration management and content management.
+
+ Git push
+ The git push command is used to upload local repository content to a remote repository.
+
+ Git pull
+ Git pull is a Git command used to update the local version of a repository from a remote.
+
+ Merge conflict
+ Merge conflicts happen when you merge branches that have competing commits, and Git needs your 
+ help to decide which changes to incorporate in the final merge.
+
+ Git branches
+ A branch in Git is simply a lightweight movable pointer to one of these commits. 
+ The default branch name in Git is master .
+
+ Git commit
+ A commit, or "revision", is an individual change to a file (or set of files). 
