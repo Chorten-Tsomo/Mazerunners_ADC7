@@ -1,2 +1,0 @@
-print"i amkabita"
-print"hello world"
