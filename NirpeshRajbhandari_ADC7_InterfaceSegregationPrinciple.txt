@@ -1,0 +1,22 @@
+Interface FatInterface{
+    play();
+    pausse();
+    rewind();
+    unnecessaryMethod();
+}
+
+class TV implements FatInterface{
+        ...
+    }
+
+Solution:
+
+    Interface IplayInterface{
+        play();
+    }
+    Interface IpauseInterface{
+        pause();
+    }
+    class TV implements IplayInterface,IpauseInterface,IrewindInterface{
+        ...
+    }
